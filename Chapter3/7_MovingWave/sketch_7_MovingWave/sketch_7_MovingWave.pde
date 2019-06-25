@@ -1,6 +1,7 @@
 float angle =0;
 float angleVel = 0.2;
 float amp = 100;
+float testVariable = 10;
 
 void setup(){
   size (700,700);
